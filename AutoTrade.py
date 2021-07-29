@@ -2,8 +2,8 @@ import time
 import pyupbit
 import datetime
 
-access = "3UYadQjYuZXG4r2ExasbOxGwwi5ixOri7vOtDMv6"
-secret = "ecLuXGgD50NAdx0TYQIivdULs9Ig435pqlkddPxh"   
+access = "access"
+secret = "secret"   
 
 # 매매하고자 하는 코인
 # coin = "KRW-ETH"
